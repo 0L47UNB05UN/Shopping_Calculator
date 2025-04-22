@@ -24,7 +24,6 @@ A modern Android shopping list app with calculation features, built with Jetpack
 
 - 100% **Kotlin** with modern coroutines
 - **Jetpack Compose** UI toolkit
-- **MVVM Architecture** with ViewModel
 - **AndroidX Navigation** Component
 - File system storage for saved lists
 - PDF generation using Android's built-in PDF APIs
