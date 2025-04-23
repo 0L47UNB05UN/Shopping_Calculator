@@ -38,8 +38,7 @@ fun AboutScreen(onBackClicked: () -> Unit, onNavigate: (String)->Unit, viewModel
                 viewModel = viewModel
             )
         }
-    ) { padding ->
-        Column(
+    ) { padding ->        Column(
             modifier = Modifier
                 .padding(padding)
                 .verticalScroll(rememberScrollState()).padding(horizontal=12.dp)
