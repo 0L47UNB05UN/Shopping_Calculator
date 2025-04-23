@@ -6,7 +6,7 @@
 
 A modern Android shopping list app with calculation features, built with Jetpack Compose.
 
-<img src="screenshots/shopping_calculator.gif" width="300" alt="App Demo">
+<img src="screenshot/shopping_calculator.gif" width="300" alt="App Demo">
 
 ## ✨ Features
 
